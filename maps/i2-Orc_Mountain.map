@@ -1,0 +1,33 @@
+border_size=1
+usage=map
+
+Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Ww, Ww, Ww, Ww, Ww, Wo, Wo, Wo, Wo, Wo, Ww, Wo, Wo, Wo
+Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Ww, Ww, Ww, Ww, Ww, Wo, Wo, Wo, Wo, Wo, Wo^Vm, Wo, Wo, Wo
+Wwr, Ww^Vm, Wo, Wo, Wo, Wo, Wo, Wo, Ww, Wo, Ww, Wwr, Ww, Wwr, Ww, Ww, Ds, Ds, Gg, Ww, Ww, Ww, Ww, Wo, Wo, Wo, Wo, Wo, Wo, Wo
+Wo, Wo, Wo, Wo, Wo, Wo, Ww, Ww, Ds, Ww, Wwr, Ww, Ds, Ww, Ds, Wwr, Gs, Gs, Hh, Gg, Gg, Ds, Ds, Ww, Ww, Wo, Wo, Wo, Wo, Wo
+Wo, Wo, Wo, Wo, Ww, Ww, Ds, Ds, Gg, Ds, Gg, Gg, Gg, Gg, Gg, Gs^Vo, Gs, Hh, Mm, Hh, Hh, Gg, Gs, Ds, Ww, Ww, Ww, Wo, Wo, Wo
+Wo, Wo, Wo, Wwr, Ww, Wwr, Gg, Gg, Hh, Gg, Gg, Gg, Gg, Hh, Gg, Hh, Hh, Hh, Mm, Mm, Hh, Mm^Vo, Hh, Gg, Gg, Ww, Ww, Wo, Wo, Wo
+Wo, Wo, Wo, Ww, Ww, Gg, Gs, Hh, Hh, Hh, Mm, Gg, Hh, Gg, Gs, Mm, Mm, Hh, Mm, Hh^Fp, Mm, Hh, Mm, Hh, Gg, Ww, Ww, Wo, Wo, Wo
+Wo, Wo, Wo, Ww, Ww, Gg, Gg, Hh, Hh, Mm, Hh^Fp, Mm, Mm, Mm, Mm, Mm, Hh, Mm, Mm, Mm, Mm, Mm, Hh, Hh, Gg, Ds, Ww, Wo, Wo, Wo
+Wo, Wo, Wo, Wwr, Ww, Ww, Wwr, Gg, Gg, Hh, Hh, Hh, Mm, Mm, Ch, Ch, Ch, Mm, Mm, Mm, Mm, Mm, Hh, Gs^Vo, Ds, Ds, Ww, Wo, Wo, Wo
+Wo, Wo, Wo, Wo, Wo, Ww, Ww, Gg, Gg, Gs^Vo, Hh, Mm, Mm, Mm, Ch, 4 Kh, Ch, Hh, Hh, Mm, Mm, Mm, Hh, Gg, Ds, Ww, Ww, Wo, Wo, Wo
+Wo, Wo, Wo, Wo, Ww, Ww, Ds, Gg, Gg, Gg, Hh, Mm, Mm, Hh, Mm, Ch, Wwr, Wwr, Hh, Mm, Mm, Mm, Hh, Gg, Gg, Ds, Ww, Wo, Wo, Wo
+Wo, Wo, Ww, Ww, Ds, Ds, Gg, Gg, Gg, Gg, Hh^Fp, Mm, Mm, Mm, Mm, Mm, Hh, Ww, Hh, Mm, Hh, Hh, Mm, Gg, Gg, Ds, Ww, Wo, Wo, Wo
+Wo, Wo, Ww, Ds, Ds, Ds, Gg, Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Hh, Hh, Mm, Mm, Mm, Hh, Ww, Hh, Mm, Hh, Hh, Hh, Hh, Gg, Ds, Ww, Wo, Wo, Wo
+Wo, Wo, Ww, Ds, Ds, Gs, Gg, Gs^Fp, Gs^Fp, Gs^Fp, Mm, Hh, Gs^Fp, Hh, Hh, Mm, Hh, Ww, Gs, Hh, Mm^Vo, Gg, Gg, Hh, Hh, Ds, Ww, Wo, Wo, Wo
+Wo, Wo, Ww, Ds, Ds, Gg, Gs^Fp, Gs^Fp, Gs^Fp, Hh, Hh^Fp, Gs^Fp, Gs^Fp, Gg, Gg, Hh, Gg, Ww, Ww, Gs, Gg, Gg, Gg, Hh, Hh, Ds, Ww, Ww, Wo, Wo
+Wo, Wo, Ww, Ds, Ds, Ds, Gs^Fp, Gs^Vo, Gs^Fp, Gs^Fp, Mm, Hh, Gs^Fp, Gg, Gs^Fp, Mm, Hh, Ww, Ww, Gg, Gg, Gg, Gg, Hh, Gg, Gs, Ww, Ww, Wo, Wo
+Wo, Wo, Ww, Ds, Ds, Ds, Gg, Gs^Fp, Gs^Fp, Hh^Fp, Hh, Hh^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Hh, Mm, Gg, Ww, Ww, Gs, Gg, Gg, Gg, Gg, Gg, Ds, Ww, Wo, Wo
+Wo, Wo, Ww, Ww, Ds, Ds, Ds, Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Mm, Hh, Gs^Fp, Gs^Fp, Gs^Fp, Hh, Gg, Gs, Wwf, Ww, Gg, Ce, Ce, 1 Ket, Gg, Ds, Ww, Wo, Wo
+Wo, Wo, Ww, Ds, Ds, Ds, Ds, Ds, Gs^Fp, Gs, Gs^Fp, Hh, Gs^Fp, Gs^Fp, Gs^Fp, Gg, Gs^Fp, Gs^Fp, Gg, Ww, Ww, Gg, Gs, Ce, Ce, Gg, Ds, Ww, Wo, Wo
+Wo, Wo, Ww, Ds, Ds, Ds, Ds, Ds, Gg, Gg, Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Gs^Vo, Gs^Fp, Gg, Gg, Ww, Ww, Gg, Gg, 2 Ket, Gg, 3 Gs, Ds, Ww, Wo, Wo
+Wo, Wo, Wo, Ww, Ww, Ww, Ds, Ds, Ds, Ds, Gs^Vo, Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Gg, Gg, Gg, Gg, Ww, Gs, Gg, Gg, Gg, Gg, Ds, Ww, Wo, Wo
+Wo, Wo, Wo, Wo, Wo, Ww, Ww, Ds, Ds, Ds, Gs, Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Gg, Gs^Fp, Gg, Gg, Gs, Wwf, Ww, Gs^Vo, Gg, Gs^Vo, Ds, Ww, Wo, Wo
+Wo, Wo, Wo, Wo, Wo, Wo, Wo, Ww, Ww, Ds, Ds, Gs^Fp, Gs^Fp, Gs^Fp, Gs^Fp, Gg, Gs^Fp, Gs^Fp, Gs, Hh, Gs, Ww, Ww, Ww, Ww, Wwr, Ww, Ww, Wo, Wo
+Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Ww, Ds, Ds, Ds, Ds, Ds, Gg, Gg, Gg, Hh^Fp, Mm, Mm, Hh, Gs, Gg, Ww, Wwr, Gs^Vo, Ww, Wo, Wo, Wo
+Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Ww, Ww, Ds, Ds, Ds, Gg, Gg, Gg, Hh^Fp, Hh, Mm, Hh, Gg, Gg, Gs^Vo, Ww, Gg, Wo, Wo, Wo, Wo
+Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Ww, Ww, Ds, Ds, Gg, Ds, Gg, Gg, Gg, Gg, Gg, Ds, Ds, Ww, Ww, Wo, Wo, Wo, Wo
+Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Ww, Ww, Ds, Ds, Ds, Ds, Ds, Ds, Ds, Ww, Ww, Wo, Wo, Wo, Wo, Wo, Wo
+Wo, Wo, Wo, Wo, Wo, Wo^Vm, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Ww, Ww, Ds, Ww, Ww, Ww, Ww, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo
+Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Ww, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo^Vm, Wo, Wo
+Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Ww, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo

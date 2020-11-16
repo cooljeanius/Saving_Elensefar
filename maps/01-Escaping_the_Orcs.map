@@ -1,0 +1,25 @@
+border_size=1
+usage=map
+
+Gs, Gs, Gs, Gs, Rb, Xol, Xol, Xol, Xol, Xol, Xol, Xol, Xol, Xol, Xol, Xol, Xol, Xol, Xol, Xol, Xol, Xol
+Gs, 1 Ke, Ce, Ce, Gg, Xol, Xol, Xol, Xol, Xol, 3 Kud, Xol, Xol, Xol, Xol, Xol, Xol, Xol, Xol, Xol, Xol, Xol
+Gs, Ce, Ce, 2 Ke, Gg, Xol, Xol, Xol, Xol, Cud, Cud, Rd, Rd, Xol, Xol, Xol, Xol, Xol, Xol, Xol, Xol, Xol
+Gg, Rb^Vct, Rrc, Rrc, Gg, Xol, Xol, Xol, Xol, Xol, Xol, Gg, Rd, Gg, Gg, Xol, Xol, Xol, Xol, Xol, Xol, Xol
+Gg, Rb, Rrc, Rrc, Gg, Gg, Gg, Xol, Gg, Xol, Gg, Xol, Gg, Rd, Gg, Xol, Xol, Xol, Xol, Xol, Xol, Xol
+Gg, Gg, Rrc, Rrc, Rrc, Gg^Fet, Rrc, Gg, Rrc, Gg, Rrc, Gg, Rrc, Rd, Gg, Xol, Xol, Xol, Xol, Xol, Xol, Xol
+Gg, Gg, Rd, Rrc, Rrc, Rrc, Rrc, Rrc, Rrc, Rrc, Rrc, Rrc, Rrc, Rrc, Rrc, Gg, Gg, Xol, Xol, Xol, Xol, Xol
+Rd, Rd, Gg, Gg, Gg, Rrc, Gg, Rrc, Gg, Rrc, Gg, Rrc, Gg, Rrc, Rrc, Rrc, Rrc, Gg, Gg, Xol, Gg, Gg
+Gg, Rd, Gg, Xol, Xol, Gg, Xol, Gg, Xol, Gg, Xol, Gg, Xol, Gg, Gg, Rrc, Rrc, Rrc, Rrc, Gg, Rrc, Rrc
+Gg, Rd, Gg, Xol, Cud, Xol, Xol, Xol, Xol, Xol, Xol, Xol, Xol, Xol, Xol, Gg, Gg, Rrc, Rrc, Rrc, Rrc, Rrc
+Gg, Rd, Rd, Cud, 4 Kud, Cud, Rd, Gg, Gg, Xol, Xol, Xol, Xol, Xol, Xol, Xol, Xol, Gg, Rrc, Rrc, Rrc, Rrc
+Xol, Xol, Xol, Cud, Xol, Cud, Xol, Rd, Gg, Xol, Xol, Xol, Xol, Xol, Xol, Xol, Xol, Gg, Rrc, Rrc, Rrc, Rrc
+Xol, Xol, Gg, Xol, Xol, Xol, Xol, Rd, Rd, Gg, Gg, Xol, Gg, Xol, Gg, Xol, Gg, Gg, Rrc, Rrc, Rrc, Rrc
+Re^Gvs, Re^Gvs, Gg, Gg, Gg, Gg, Gg, Gg, Rrc, Gg, Rrc, Gg, Rrc, Gg, Rrc, Gg, Rrc, Rrc, Rrc, Rrc, Rrc, Rrc
+Re^Gvs, Re^Gvs, Rrc, Gg^Fet, Rrc, Rrc, Rrc, Rrc, Rrc, Rrc, Rrc, Rrc, Rrc, Rrc, Rrc, Rrc, Rrc, Rrc, Gg, Gg, Gg, Gg
+Rrc, Rrc, Rrc, Rrc, Ce, Rrc, Ce, Rrc, Gg^Fet, Rrc, Gg, Rrc, Gg, Rrc, Gg, Rrc, Gg, Rd, Xol, Xol, Xol, Xol
+Gg, Rb, Rrc^Vhc, Rr, Rrc, Ce, Ce^Kov, Rrc, Gg, Gg, Xol, Gg, Xol, Gg, Xol, Gg, Rd, Rd, Gg, Xol, Xol, Xol
+Wwg^Bsb/, Wwg^Bsb/, Wwg, Rr, Rr^Vhc, Ce, Rrc, Rp, Gg, Xol, Xol, Xol, Xol, Xol, Gg, Gg, Rd, Gg, Xol, Xol, Xol, Xol
+Wog, Wog, Wwg^Bsb/, Wwg^Bsb/, Wwrg, Rr, Rr^Vhc, Rrc, Gg, Xol, Xol, Xol, Cud, Cud, Cud, Rd, Xol, Xol, Xol, Xol, Xol, Xol
+Wog, Wog^Bsd, Wog, Wog, Wwg^Bsb/, Wwg^Bsb/, Wwg^Bsd, Rb, Gg, Xol, Xol, Xol, Xol, 5 Kud, Xol, Xol, Xol, Xol, Xol, Xol, Xol, Xol
+Wog, Wog, Wog, Wog^Bsd, Wog, Wog, Wwg, Gg, Gg, Gg, Hd^Dr, Xol, Xol, Xol, Xol, Xol, Xol, Xol, Xol, Xol, Xol, Xol
+Wog, Wog, Ww, Wog, Wog, Wog, Wwg, Rb, Gg, Gg, Gg, Xol, Xol, Xol, Xol, Xol, Xol, Xol, Xol, Xol, Xol, Xol

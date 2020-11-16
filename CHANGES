@@ -1,0 +1,196 @@
+Version 1.1, 7-11-07
+
+Last version maintained by Turin.
+
+
+Version 1.2, 03-07-08
+
+New maintainer: friar tuck
+
+Changes:
+
+* Show stopper wrt BfW 1.4 which would suppress sea battle on
+  interactive bigmap
+  FIXED
+
+* Some updates to unit cfgs: magical weapon special for shadow mage,
+  default AMLA (with full healing), move type for ships to get rid of
+  annoying error message.
+
+* Black Galleon movable after restart of interactive bigmap.
+
+* Sunken enemy ships not being displayed.
+  FIXED
+
+Known issues:
+
+* Most custom stuff (terrain, units) is outdated. Some cfg issues have
+  been fixed (see above), but it all needs a complete overhaul. A lot
+  of things (Highwayman or Shadow Mage, for instance) are redundant
+  anyway, because they are Mainline or part of a mainline campaign in
+  the meantime.
+
+* A lot of things (names, items, attacks) are currently not displayed,
+  probably owing to outdated cfg syntax or changed locations for
+  graphics.
+
+
+Version 1.2.1, 07-07-08
+
+Changes:
+
+* Added new-style "translate" declaration.
+
+* Replaced outdated "music" declarations, music should be playing again.
+
+* fixed outdated "barrel" terrain
+
+-----------------------------------------------------------------------------------
+###################################################################################
+-----------------------------------------------------------------------------------
+
+New maintainer: trewe
+
+v1.3
+ - campaign necromancy
+ - update to bfw 1.8.4
+ - get rid of duplicate images
+ - set up ai behaviour
+ - added income in big battles for ai
+ - shadow mage/lord updated
+ - recoded hight seas
+ - set ai behaviou in siege of elensefar to fit siege scenario
+
+v1.3.2
+ - fixed an capture-village macro
+ - added id to the campaign (...)
+ - update to 1.9
+ - switch sighted events to moveto's
+ - update translation (german)
+
+v1.3.3
+ - custom shedule
+ - several bugfixes
+ - code cleansing
+ - update to 1.9
+
+v1.3.4
+ - correction
+
+v1.4.0
+ - 4 new scenarios (merged 'Eliador' with Saving Elensefar)
+ - code cleaning and debuging
+
+v1.4.1
+ - fixed some typos
+
+v1.4.2
+ - changed 'The Swampland' to be a reversi/othello game
+ - tweaked ai ally in 'A naval Engagement'
+
+v1.4.3
+ - patroling wesnothian ships
+ - enlarged swampland
+
+v1.4.4
+ - bugfixing (typos)
+ - balancing
+
+v1.4.6
+ - further bugfixing & testing
+ - fixed ability blitz
+ - saurians offer 'eye of basilisk' in 'saurian trap'
+ - new scenario: 'Illaryan the Illusionist'
+
+v1.4.7
+ - fixed 3 gamebreaking bugs
+ - fixed battle tutor ability
+ - tweaked ai
+ - balancing
+
+v1.4.8
+ - removed pango in the credits.cfg
+ - update german translation
+ - disabled 'saurian trap'
+
+v1.4.9
+ - updaded german translation
+ - added portuguese translation
+ - enabled 'saurian trap'
+ - various tweaks
+
+v1.4.10
+ - fixed fire island not triggering victory
+
+v1.4.12
+ - added french translation
+ - added czech translation
+
+v1.4.13
+ - changed ai turn events to side turn
+ - removed persistent ai sides
+ - added a lot of death messages
+
+v1.5.0
+ - added a Experimental branch
+ (should be stable but needs further playtesting and balancing)
+
+v1.5.1
+ - converted to BfW 1.11
+
+v1.5.2
+ - run wmltools over the campaign
+ - updaded translations
+ - cleaned code
+ - playtesting & converting to BfW 1.11
+
+v1.5.3
+ - updated translations
+ 
+v1.5.6
+ - merged experimental branch to default
+ - removed a lot of depreciated store/unstore constructs
+ 
+v1.5.7~RC1
+ - updaded WML to something slighly more modern
+ - simplified a lot the underlying engine
+ - rebalance of almost all scenarios (in progress)
+ - tweaked AI
+ - replaced some graphics
+
+v1.6.0
+ - balance
+ - graphic update
+ - release on the 1.12 server
+
+v1.6.1
+ - Bugfixes
+ - added Pirate and Orcish Ships to the main map
+ - replaced orcs with khalifate in 'ruined port'
+ - overview of recruitlists and tweaked them according to improved AI behaviour
+
+v1.6.2
+ - Bugfixes
+ - translations
+ - changed mechanic of Battletutor skill
+
+v1.6.3
+ - 1.12.4 maintenance release
+ - partly merged multiplayer port
+ - code stabilization
+
+v1.6.4
+ - fixed a stupid typo which crashed the campaign outright
+
+v1.7.0~experimental
+ - added multiplayer port
+
+# TODO
+ - alduin, caves and saurian trap need story
+ - dialogue redo on 'The Swampland' and 'Illaryan..'
+ ? change 'Off the Peninsula'
+ ¥ finaly implement story images
+ - looking for remaing balance blooters (especially gold carryover)
+ ? simplify gold carryover
+
+### trewe — sjrs456 at yahoo dot fr ###

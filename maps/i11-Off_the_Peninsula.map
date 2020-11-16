@@ -1,0 +1,25 @@
+border_size=1
+usage=map
+
+Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo
+Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo
+Wo, Wo, Wo, Wo, Wo, Wo, Ww, Ww, Ww, Ww, Ww, Wo, Ww^Bw|, Wo, Ww, Wo, Ww, Ww, Ww, Wo, Wo, Wo, Wo
+Wo, Wo, Wo, Wo, Ww, Ww, Dd, Dd, Dd, Dd, Dd, Ww, Dd, Ww, Dd, Ww, Dd, Dd, Dd, Ww, Ww, Wo, Wo
+Wo, Wo, Ww, Ww, Dd, Dd, Gs^Vht, Gs, Gs, Hd, Gs^Fts, Dd, Gd, Dd, Gs, Dd, Hd, Gs^Fts, Gs^Fts, Dd, Ww, Wo, Wo
+Wo, Wo, Ww, Dd, Gs^Fts, Gs^Fts, Hh^Fts, Hh, Hh, Gs^Fts, Cd, Cd, Cd, Gd, Gs, Gs, Gs, Gs^Fts, Dd, Dd, Ww, Wo, Wo
+Wo, Wo, Ww, Dd, Dd, Gs^Fts, Gs, Gs, Gs, Gs, Cd, 4 Kd, Cd, Gs, Gs, Hh, Gs^Vht, Dd, Ww, Ww, Wo, Wo, Wo
+Wo, Wo, Wo, Ww, Ww, Dd, Gs, Gs, Gs, Gs, Gs, Cd, Gs, Gs^Fts, Hh, Hh, Gs^Fts, Dd, Dd, Ww, Wo, Wo, Wo
+Wo, Wo, Wo, Wo, Ww, Dd, Gs^Vht, Gs, Hh, Gd, Gs, Gs, Gs, Gs^Fts, Gs^Fts, Hh, Gs^Fts, Gs^Fts, Dd, Ww, Wo, Wo, Wo
+Wo, Wo, Wo, Wo, Ww, Dd, Gs, Gs, Gs, Hh, Gs, Gs, Gs, Gs, Hh, Gs, Gs, Dd, Ww, Ww, Wo, Wo, Wo
+Wo, Wo, Wo, Wo, Ww, Dd, Gs, Gs^Fts, Gs^Fts, Gs, Gs^Fts, Gs, Gs, Gs, Hh^Fts, Gs, Dd, Dd, Ww, Wo, Wo, Wo, Wo
+Wo, Wo, Ww, Ww, Dd, Dd, Gs, Gs, Gs, Gs^Fts, Gs^Fts, Hh, Hh^Fts, Gs, Gs^Fts, Gs, Dd, Ww, Wo, Wo, Wo, Wo, Wo
+Wo, Wo, Ww, Dd, Gs, Gs, Hh, Gs, Hh, Hh^Fts, Gs, Gs^Vht, Gs, Gs^Fts, Hh, Gs^Vht, Dd, Ww, Wo, Wo, Wo, Wo, Wo
+Wo, Wo, Ww, Dd, Gs^Vht, Gs, Gs, Hh^Fts, Gs, Gs, Gs, Gs, Gs, Gs^Fts, Gs, Gs, Dd, Ww, Wo, Wo, Wo, Wo, Wo
+Wo, Wo, Ww, Dd, Gs^Fts, Gs^Fts, Gs, Gs^Fts, Gs^Fts, Gs^Fts, Gs, Gs, Gs, Gs^Fts, Gs, Gs, Dd, Ww, Wo, Wo, Wo, Wo, Wo
+Wo, Wo, Ww, Dd, Dd, Gs^Fts, Gd^Fts, Gs, Hhd^Fts, Hh, Gs, Gs, Gs, Hh, Hh^Fts, Gs, Dd, Ww, Wo, Wo, Wo, Wo, Wo
+Wo, Wo, Wo, Ww, Ww, Dd, Gd^Vht, Hhd, Ce, Gs, Ce, Gs, Ce, Gs, Gs^Fts, Gs, Dd, Ww, Ww, Wo, Wo, Wo, Wo
+Wo, Wo, Wo, Ww, Ww, Dd, Hd, Gd, 2 Ke, Gs, 3 Ke, Gs, 1 Ke, Gs, Gs, Gs^Fts, Gs, Dd, Ww, Wo, Wo, Wo, Wo
+Wo, Wo, Wo, Wo, Ww, Dd, Dd, Hd, Gs^Fts, Ce, Gs, Hd, Gs^Fts, Hd^Fts, Gs^Vht, Gs, Dd, Dd, Ww, Wo, Wo, Wo, Wo
+Wo, Wo, Wo, Wo, Wo, Ww, Dd, Hd, Md, Gs^Fts, Gs^Fts, Gs^Fts, Gs^Fts, Md, Md, Dd, Ww, Ww, Wo, Wo, Wo, Wo, Wo
+Wo, Wo, Wo, Wo, Wo, Ww, Dd, Md, Md, Gs^Fts, Gs^Fts, Gs^Fts, Gs^Fts, Md, Md, Dd, Ww, Wo, Wo, Wo, Wo, Wo, Wo
+Wo, Wo, Wo, Wo, Wo, Ww, Dd, Md, Md, Gs^Fts, Gs^Fts, Gs^Fts, Gs^Fts, Md, Md, Dd, Ww, Wo, Wo, Wo, Wo, Wo, Wo
