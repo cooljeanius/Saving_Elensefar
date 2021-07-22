@@ -8,3 +8,5 @@ https://github.com/moonymeric/Saving_Elensefar/
 Description:
 Meneldur, elvish mariner of Elensefar, is driven to sea by the same orcs who attacked the city.
 He must gather an army willing to fight for him to regain Elensefar, his adopted homeland.
+
+Forum thread here: https://forums.wesnoth.org/viewtopic.php?f=8&t=3072
