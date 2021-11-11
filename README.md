@@ -5,7 +5,7 @@ Note that MoonyDragon beat me to getting his version uploaded to the 1.14 add-on
 so this repo is no longer necessary. See theirs instead here:
 https://github.com/moonymeric/Saving_Elensefar/
 
-Also apparently trewe's version is the original and is also available on GitHub here:
+Also there's trewe's version, which forked from the original at a different point than MoonyDragon's. It is also available on GitHub here:
 https://github.com/trewe/Saving_Elensefar
 
 Description:
